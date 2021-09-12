@@ -3,8 +3,6 @@
 
 <h3 align="center">A passionate Self Taught Full Stack Developer</h3>
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/709260916268466177.png"></div>
-<div align="right"><img alt= "owo"src = "https://spotify-github-profile.vercel.app/api/view?uid=0qr4lrrkcrzshcpxp5so11tcv&cover_image=true&theme=novatorem"></div>
-
 
 <!-- - 🔭 I’m currently working on - **Improving my Skills and new projects**
 
@@ -17,8 +15,3 @@
 - 📫 How to reach me - [**Discord**](https://discord.com/users/709260916268466177)
 
 - ⚡ Fun fact - **i don't hate maths but my parents are trying their best to make me hate it** -->
-
-
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Whirl21&theme=dracula&count_private=true"></div>
