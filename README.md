@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Simple  Developer</h3>
-<div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/709260916268466177.png"></div>
+<div align="center"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/709260916268466177.png"></div>
 
 <!-- - 🔭 I’m currently working on - **Improving my Skills and new projects**
 
