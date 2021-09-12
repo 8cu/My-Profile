@@ -1,7 +1,7 @@
-<h1 align="center">Shadow 👋, I'm Whirl</h1>
+<h1 align="center">Hello 👋, I'm Shadow</h1>
 
 
-<h3 align="center">A passionate Self Taught Full Stack Developer</h3>
+<h3 align="center">Simple  Developer</h3>
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/709260916268466177.png"></div>
 
 <!-- - 🔭 I’m currently working on - **Improving my Skills and new projects**
